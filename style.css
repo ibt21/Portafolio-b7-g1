@@ -1,0 +1,14 @@
+#presentacion {
+    height: 90vh;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+.proyecto{
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#proyecto1{
+    background-image: url(/twice/imagenes/chaeyong.jpg);
+}
