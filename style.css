@@ -12,3 +12,13 @@
 #proyecto1{
     background-image: url(/twice/imagenes/chaeyong.jpg);
 }
+.nitf a:hover{
+    font-size: 20px;
+}
+
+.navbar{
+    height: 75px;
+}
+.nav-item a:hover{
+    font-size: 20px;
+}
