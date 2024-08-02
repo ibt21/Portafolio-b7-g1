@@ -3,22 +3,56 @@
     display: flex;
     justify-content: start;
     align-items: center;
+    background-image: url(assets/fondo.webp);
 }
-.proyecto{
+
+.proyecto {
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
 }
-#proyecto1{
-    background-image: url(/twice/imagenes/chaeyong.jpg);
+
+#proyecto1 {
+    background-image: url(assets/Desarrollo_sostenible.jpg);
+    filter: blur(50%);
+    filter: brightness(50%);
 }
-.nitf a:hover{
+
+.front,
+.back {
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden;
+    transition: transform 0.5s;
+}
+
+.front {
+    transform: rotateY(0deg);
+}
+
+.back {
+    justify-content: center;
+    transform: rotateY(180deg);
+
+}
+
+.pryani:hover .front {
+    transform: rotateY(-180deg);
+}
+
+.pryani:hover .back {
+    transform: rotateY(0deg);
+
+}
+
+.nitf a:hover {
     font-size: 20px;
 }
 
-.navbar{
+.navbar {
     height: 75px;
 }
-.nav-item a:hover{
+
+.nav-item a:hover {
     font-size: 20px;
 }
