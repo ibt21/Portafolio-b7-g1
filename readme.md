@@ -6,7 +6,7 @@ fue desarrollado en HTML, CSS y JS con el uso del framework de UI, bootstrap uti
 
 La página es responsiva (adaptativa a diferentes tamaños de pantalla) e incluye la presentación de la autora del proyecto.
 
-[Proyecto desplegado]()
+[Proyecto desplegado](http://127.0.0.1:5500/portafolio/portafolio.html)
 
 ## secciones de mi sitio
 
