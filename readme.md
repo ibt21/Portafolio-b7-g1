@@ -10,7 +10,10 @@ La página es responsiva (adaptativa a diferentes tamaños de pantalla) e incluy
 
 ## secciones de mi sitio
 
-![Presentación](assets/readme/img1.jpeg)
+![Presentación](assets/readme/presentacion.jpeg)
+![Habilidades](assets/readme/habilidades.jpeg)
+![Proyectos](assets/readme/proyectos.jpeg)
+![carrusel y footer](assets/readme/carruselyfooter.jpeg)
 
 ## tecnologías
 
