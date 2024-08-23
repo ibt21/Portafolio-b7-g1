@@ -6,7 +6,7 @@ fue desarrollado en HTML, CSS y JS con el uso del framework de UI, bootstrap uti
 
 La página es responsiva (adaptativa a diferentes tamaños de pantalla) e incluye la presentación de la autora del proyecto.
 
-[Proyecto desplegado] (https://vercel.com/ibt21s-projects/portafolio-b7-g1/CaiReij5Fguy1mpSvz4ATFk4RJ7y)
+[Proyecto desplegado] (https://portafolio-b7-g1-snowy.vercel.app/)
 
 ## secciones de mi sitio
 
